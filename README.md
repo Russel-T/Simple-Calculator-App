@@ -1,63 +1,41 @@
-# 📱 Simple Calculator App
+# 🧮 Simple Calculator App
 
-Welcome to the Simple Calculator App! This project is a basic calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+## 📖 Description
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+This project is a basic calculator application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for performing simple arithmetic calculations.
 
-## ✨ Features
+## 🚀 Features
 
-- **User-Friendly Interface**: Simple and intuitive design.
-- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
-- **Responsive Design**: Works well on both desktop and mobile devices.
-- **Keyboard Support**: Perform calculations using your keyboard.
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔢 Support for decimal numbers
+- 🔄 Clear function to reset calculations
 
-## 🛠️ Installation
+## 🛠️ Technologies Used
 
-To get a local copy up and running, follow these simple steps:
+- HTML5
+- CSS3
+- JavaScript
 
-1. **Clone the repo**
-   ```sh
-   git clone https://github.com/your-username/simple-calculator.git
-   ```
-2. **Open the index.html file**
-   Navigate to the project directory and open `index.html` in your preferred web browser.
+## 🖥️ Installation
 
-## 🚀 Usage
+1. Clone the repository:
 
-1. **Open the App**
-   Open the `index.html` file in your web browser.
+2. Open the `index.html` file in your preferred web browser.
 
-2. **Perform Calculations**
-   - Use the buttons on the calculator to input numbers and operations.
-   - Alternatively, use your keyboard to enter numbers and operations.
+## 🎯 Usage
+
+1. Enter numbers using the on-screen buttons or your keyboard.
+2. Click on the operation you want to perform.
+3. Press the equals (=) button to see the result.
+4. Use the clear (C) button to reset the calculator.
 
 ## 🤝 Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/simple-calculator-app/issues).
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## 📝 License
 
-## 📜 License
-
-Distributed under the MIT License.
-
----
-
-### 📧 Contact
-
-Email - russel.abraham123@gmail.com
-Phone Number - 312-975-3751
-Project Link: [https://github.com/your-username/simple-calculator](https://github.com/your-username/simple-calculator)
-
----
-
-Happy calculating! ✨🔢
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
