@@ -4,6 +4,11 @@
 
 This project is a basic calculator application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for performing simple arithmetic calculations.
 
+## 🔗 Project Link
+
+Try out the calculator here: https://russel-t.github.io/Simple-Calculator-App/
+
+
 ## 🚀 Features
 
 - ➕ Addition
