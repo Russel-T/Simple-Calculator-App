@@ -48,14 +48,14 @@ Contributions are what make the open source community such an amazing place to l
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
 
 ---
 
 ### 📧 Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
+Email - russel.abraham123@gmail.com
+Phone Number - 312-975-3751
 Project Link: [https://github.com/your-username/simple-calculator](https://github.com/your-username/simple-calculator)
 
 ---
